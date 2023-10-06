@@ -44,6 +44,10 @@
 .cer-grid{
     border-bottom: solid black 2px;
 }
+    .cer-img {
+    height: fit-content;
+    width: fit-content;
+  }
 #certificate .container::before {
     content: none;
 }
